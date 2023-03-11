@@ -1,1 +1,7 @@
-Selamlar Turkcell eğitimine hoşgeldiniz.
+Ad Soyad: Furkan Yükcü
+Okul/Bölüm/Meslek: iOS Developer
+Yaşadığı il/ilçe: Antalya/Muratpaşa
+Swift Tecrübesi:1 Ay
+Bildiğiniz Yazılım Dilleri: Swift, C, Matlab
+Linkedin: linkedin.com/in/yukcu02
+email:frknykc@hotmail.com
