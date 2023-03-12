@@ -1,5 +1,5 @@
 Ad Soyad: Furkan Yükcü
-Okul/Bölüm/Meslek: iOS Developer
+Okul/Bölüm/Meslek:Marmara Üniversitesi - EEM -  iOS Developer
 Yaşadığı il/ilçe: Antalya/Muratpaşa
 Swift Tecrübesi:1 Ay
 Bildiğiniz Yazılım Dilleri: Swift, C, Matlab
